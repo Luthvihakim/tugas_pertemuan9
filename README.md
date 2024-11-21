@@ -1,0 +1,2 @@
+Server Side Scripting (SSS) adalah teknik pemrograman web di mana skrip dijalankan di sisi server, bukan di sisi klien. Skrip ini diproses oleh server web sebelum halaman dikirimkan ke browser klien. Artinya, kode yang ada di dalam skrip server hanya dapat dijalankan dan dieksekusi oleh server, dan hasil akhirnya baru dikirimkan ke pengguna dalam bentuk HTML, CSS, atau JavaScript yang sudah diproses.
+Beberapa contoh bahasa pemrograman yang digunakan untuk server-side scripting adalah PHP, Python, Ruby, Node.js, ASP.NET, dan sebagainya.
